@@ -4,7 +4,7 @@ The script create a S3 bucket with it's DynamoDB table for tfstate locking.
 
 # Prerequisite
 
-Before launching script login to awscli with an account having s3api full access and DynamoDB create table access.
+Before launching script, login to awscli with an account having s3api full access and DynamoDB create table access.
 
 # Example:
 
